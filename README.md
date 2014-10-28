@@ -1,4 +1,4 @@
-Contacts view (Android 5.0) for Xamarin
+Contacts view (Android 5.0) using kotlin language instead of JAVA.
 ============
 
 Android 5.0 has a brand new contacts view:
